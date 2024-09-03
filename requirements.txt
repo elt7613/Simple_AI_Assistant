@@ -1,0 +1,10 @@
+groq
+python-dotenv
+opencv-python
+pillow
+google-generativeai
+pyperclip
+elevenlabs
+duckduckgo-search  
+selenium
+webdriver-manager
